@@ -1,0 +1,15 @@
+{
+    "dan": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-example-dan-191820-authRole",
+            "UnauthRoleArn": "arn:aws:iam::578904339349:role/amplify-example-dan-191820-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::578904339349:role/amplify-example-dan-191820-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-example-dan-191820-deployment",
+            "UnauthRoleName": "amplify-example-dan-191820-unauthRole",
+            "StackName": "amplify-example-dan-191820",
+            "StackId": "arn:aws:cloudformation:us-west-2:578904339349:stack/amplify-example-dan-191820/43b17fe0-d854-11ea-aa7b-0a233d312e0a",
+            "AmplifyAppId": "d22374v5s8b8ny"
+        }
+    }
+}
