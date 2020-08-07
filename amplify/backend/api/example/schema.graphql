@@ -1,0 +1,5 @@
+type Movie @model {
+  id: ID!
+  name: String!
+  description: String
+}
